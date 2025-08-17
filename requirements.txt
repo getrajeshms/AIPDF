@@ -1,7 +1,7 @@
 streamlit==1.43.2
 pandas==2.2.3
 PyPDF2==3.0.1
-faiss-cpu==1.7.4
+faiss-cpu
 python-dotenv==1.0.1
 
 # LangChain ecosystem
@@ -13,6 +13,7 @@ langchain-google-genai
 
 # Gemini / Google GenAI
 google-generativeai
+
 
 
 
